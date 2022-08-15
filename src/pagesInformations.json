@@ -1,0 +1,115 @@
+{
+  "guestTR": [
+    {
+      "id": 0,
+      "name": "TMS Technic",
+      "url": "https://tmstechnic.com",
+      "imagePath": "/static/media/tmsTechnic.16d4e8fd6ff0bda6ba8a.PNG"
+    },
+    {
+      "id": 1,
+      "name": "TMS Motor",
+      "url": "https://tmsmotor.com.tr",
+      "imagePath": "/static/media/tmsMotor.5ce3fb841ac7a0b5818b.PNG"
+    },
+    {
+      "id": 2,
+      "name": "TMS Rubber",
+      "url": "https://tmsrubber.com/tr",
+      "imagePath": "/static/media/tmsRubber.847d8713ce1ebe0b082e.PNG"
+    },
+    {
+      "id": 3,
+      "name": "TMS Ar-Ge",
+      "url": "https://tmsarge.com",
+      "imagePath": "/static/media/tmsArge.cc9355e8657dd022b2e2.PNG"
+    }
+  ],
+
+  "guestENG": [
+    {
+      "id": 4,
+      "name": "TMS Technic",
+      "url": "https://tmstechnic.com/en/",
+      "imagePath": "/static/media/tmsTechnic.16d4e8fd6ff0bda6ba8a.PNG"
+    },
+    {
+      "id": 5,
+      "name": "TMS Motor",
+      "url": "https://tmsmotor.com.tr/en/",
+      "imagePath": "/static/media/tmsMotor.5ce3fb841ac7a0b5818b.PNG"
+    },
+    {
+      "id": 6,
+      "name": "TMS Rubber",
+      "url": "https://tmsrubber.com/",
+      "imagePath": "/static/media/tmsRubber.847d8713ce1ebe0b082e.PNG"
+    },
+    {
+      "id": 7,
+      "name": "TMS R&D",
+      "url": "https://tmsarge.com/eng",
+      "imagePath": "/static/media/tmsArge.cc9355e8657dd022b2e2.PNG"
+    }
+  ],
+
+  "guestDE": [
+    {
+      "id": 8,
+      "name": "TMS Technic",
+      "url": "https://www.tmstechnic.com/de/",
+      "imagePath": "/static/media/tmsTechnic.16d4e8fd6ff0bda6ba8a.PNG"
+    },
+    {
+      "id": 9,
+      "name": "TMS Motor",
+      "url": "https://tmsmotor.com.tr/en/",
+      "imagePath": "/static/media/tmsMotor.5ce3fb841ac7a0b5818b.PNG"
+    },
+    {
+      "id": 10,
+      "name": "TMS Rubber",
+      "url": "https://tmsrubber.com/",
+      "imagePath": "/static/media/tmsRubber.847d8713ce1ebe0b082e.PNG"
+    },
+    {
+      "id": 11,
+      "name": "TMS F&E",
+      "url": "https://www.tmsarge.com/de",
+      "imagePath": "/static/media/tmsArge.cc9355e8657dd022b2e2.PNG"
+    }
+  ],
+
+  "portals": [
+    {
+      "id": 12,
+      "name": "TMS Portal",
+      "url": "http://portal.tmstechnic.com/",
+      "imagePath": "/static/media/tmsPortal.6402a9184a78cb4198c1.PNG"
+    },
+    {
+      "id": 13,
+      "name": "TMS Onboard",
+      "url": "http://onboard.tmstechnic.com",
+      "imagePath": "/static/media/tmsOnboard.f6843153e0dc71a16110.PNG"
+    },
+    {
+      "id": 14,
+      "name": "TMS ETCS",
+      "url": "http://lokomotif.tmstechnic.com",
+      "imagePath": "/static/media/tmsLokomotive.24c50e04f1e0b001a5f0.png"
+    },
+    {
+      "id": 15,
+      "name": "TMS Edirne Lokomotif",
+      "url": "http://edirne-loko.tmstechnic.com",
+      "imagePath": "/static/media/tmsEdirneLoko.14dfb97fc17076c14c2d.PNG"
+    },
+    {
+      "id": 16,
+      "name": "TMS Karabük Lokomotif",
+      "url": "http://karabuk-loko.tmstechnic.com",
+      "imagePath": "/static/media/tmsEdirneLoko.14dfb97fc17076c14c2d.PNG"
+    }
+  ]
+}

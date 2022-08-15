@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://sites.tmstechnic.com/</loc>
+    <xhtml:link rel = "alternate" hreflang = "tr" href = "https://sites.tmstechnic.com/" />
+    <xhtml:link rel = "alternate" hreflang = "en" href = "https://sites.tmstechnic.com/en" />
+    <xhtml:link rel = "alternate" hreflang = "de" href = "https://sites.tmstechnic.com/de" />
+    <lastmod>2022-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    
+  </url>
+  <url>
+    <loc>https://sites.tmstechnic.com/en</loc>
+    <xhtml:link rel = "alternate" hreflang = "tr" href = "https://sites.tmstechnic.com/" />
+    <xhtml:link rel = "alternate" hreflang = "en" href = "https://sites.tmstechnic.com/en" />
+    <xhtml:link rel = "alternate" hreflang = "de" href = "https://sites.tmstechnic.com/de" />
+    <lastmod>2022-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    
+  </url>
+  <url>
+    <loc>https://sites.tmstechnic.com/de</loc>
+    <xhtml:link rel = "alternate" hreflang = "tr" href = "https://sites.tmstechnic.com/" />
+    <xhtml:link rel = "alternate" hreflang = "en" href = "https://sites.tmstechnic.com/en" />
+    <xhtml:link rel = "alternate" hreflang = "de" href = "https://sites.tmstechnic.com/de" />
+    <lastmod>2022-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    
+  </url>
+</urlset>
